@@ -1,0 +1,126 @@
+*{
+    box-sizing: border-box;
+
+}
+
+
+
+/* @media screen and (max-width: 990px) {
+  .hero-sub-section-1 {
+    display: none;
+}
+} */
+
+.nav{
+width: 100%;}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #7894bf;
+}
+
+li {
+align-items: center;}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover{
+  background-color: #ebeff5;
+  color: #7894bf;
+}
+
+
+  
+.profile-pic1{
+  width: 120px;
+  border-radius:60px;
+}
+
+  .projects-image{
+    width: 240px;
+    border-radius: 10px;
+ 
+  }
+
+  .project-description{
+    width: 200px;
+    font-size: 12px;
+    line-height: 20px;
+}
+.project-title{
+  font-weight: bold;
+}
+.dictionary {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content:space-between;
+  width: auto;
+  padding: 20px;
+}
+
+
+
+.card{
+  align-self: center;
+  margin: auto;
+  text-decoration: none;
+  font-weight: bold;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+
+}
+
+.card:hover{
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #7894bf;
+  border: 2px solid #7894bf;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* transform: rotate(3deg) scale(1.03); */
+  color: white;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/* @media screen and (max-width: 990px) {
+  .hero-section {
+    flex-direction: column;
+}
+} */
+
+
+
+.name-weather{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.name-weather-one{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.weather-image{
+  width: 100px;
+  height: 50px;
+
+  /* margin: 40px; */
+}

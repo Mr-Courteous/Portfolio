@@ -1,0 +1,52 @@
+.weather-container {
+    background-image: linear-gradient(#7894bf, #ebeff5);
+    width: 300px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.search-input {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.input {
+    border-radius: 10px;
+    border: none;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+
+}
+
+.submit {
+    border-radius: 10px;
+    border: none;
+    width: 100px;
+    height: 25px;
+    background-color: #2f6fd6;
+    margin: 20px;
+}
+
+.submit:hover {
+    background-color: #c1cad9;
+}
+
+.results {
+    text-align: center;
+}
+
+.result-image-div {
+    /* width: auto; */
+    margin-top: 10px;
+    margin-left: 40%;
+}
+
+.result-image {
+    width: 50px;
+    border-radius: 25px;
+}
