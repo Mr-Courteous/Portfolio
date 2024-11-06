@@ -49,7 +49,4 @@ function WApp() {
     );
 }
 
-
-
-
 export default WApp;

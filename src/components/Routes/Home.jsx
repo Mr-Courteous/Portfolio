@@ -2,7 +2,8 @@ import React from "react";
 // import ReactDom from "react-dom";
 import Projects from "../../Project-samples";
 import NavBarSection from "../NavBar";
-import WApp from "../Api"
+import  WApp from "../Api";
+import StudentList from'../Api2';
 import Hero from "../Hero"
 import Hero2 from "../Hero-2"
 import Footer from "../Footer"
@@ -65,6 +66,8 @@ const Home = () => {
           );
         })}
       </div>
+
+
       <Footer />
     </div>
   );

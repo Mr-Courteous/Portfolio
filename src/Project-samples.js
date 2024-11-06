@@ -1,8 +1,8 @@
 const Projects= [
     {
         id:1,
-        imgSrc: "/project-pictures/portfoilio.png",
-        title: "Personal port-foilio",
+        imgSrc: "/project-pictures/Portfoilio.png",
+        title: "Personal Port-foilio",
         description:" A collection of website that I have built perosnally and singlehandedly with react.",
         location:"/",
     },
@@ -19,7 +19,7 @@ const Projects= [
     {
         id:3,
         imgSrc: "/project-pictures/Food-recipe.png",
-        title: " FOOD RECIPE",
+        title: " Food Recipe",
         description:"This website is just a practice site with the use if html and css only. .",
         location:"https://mr-courteous.github.io/food-recipe",
 
@@ -28,7 +28,7 @@ const Projects= [
     {
         id:4,
         imgSrc: "/project-pictures/Netflix React.png",
-        title: "NETFLIX REACT CLONE",
+        title: "Netflix React Clone",
         description:"A Netflix clone app. It displays the landing page of Netlflix but it is still very cool because of its resemblance with the original Netflix app. It is built with react",
         location:"https://v3jng2.csb.app"
     },
@@ -36,7 +36,7 @@ const Projects= [
     {
         id:5,
         imgSrc: "/project-pictures/Olink Cable.png",
-        title: " OLINK CABLE VTU",
+        title: " Olink Cable VTU",
         description:"Olink is another Html and css practice website that I did when I freshly started the journey of a web developer.",
         location:"https://mr-courteous.github.io/Olink",
 
@@ -44,8 +44,8 @@ const Projects= [
 
     {
         id:6,
-        imgSrc: "/project-pictures/Javascript Works.png",
-        title: " JAVASCRIPT WORKS",
+        imgSrc: "/project-pictures/Javascript-works.png",
+        title: " Javascript Works",
         description:"As I journeryed on as a web developer, I needed to step up my game and I had to learn Javascript. This website shows some works with the use of javascript. It includes some games. Check it out",
         location:"https://mr-courteous.github.io/js-practice",
 
@@ -54,7 +54,7 @@ const Projects= [
     {
         id:7,
         imgSrc: "/project-pictures/Facebook.png",
-        title: " FACEBOOK SITE",
+        title: " Facebook Site",
         description:"This is also a Facebok page i built with the use of Html and css",
         location:"https://mr-courteous.github.io/Facebook",
 
@@ -63,7 +63,7 @@ const Projects= [
     {
         id:8,
         imgSrc: "/project-pictures/personal website.png",
-        title: " PERSONAL WEBSITE",
+        title: " Personal Website",
         description:"Just one of those personal websites we built as a newbie.",
         location:"https://mr-courteous.github.io/new",
 
@@ -72,7 +72,7 @@ const Projects= [
     {
         id:9,
         imgSrc: "/project-pictures/Data-Mapping.png",
-        title: " REACT DATA MAPPING",
+        title: " React Data-Maping",
         description:"As i stepped up my game and I needed  to learn React, I did some projects during my React training moments. Here is one.",
         location:"https://yjd1wh.csb.app",
     },
@@ -81,7 +81,7 @@ const Projects= [
     {
         id:10,
         imgSrc: "/project-pictures/Keeper App.png",
-        title: " REACT KEEPER APP",
+        title: " React Keeper-App",
         description:"As i stepped up my game and I needed  to learn React, I did some projects during my React training moments. Here is one.",
         location:"https://b2d7qw.csb.app",
     },
@@ -89,7 +89,7 @@ const Projects= [
     {
         id:11,
         imgSrc: "/project-pictures/HookState.png",
-        title: " REACT HOOKS STATE",
+        title: " React Hooks-State",
         description:"As i stepped up my game and I needed  to learn React, I did some projects during my React training moments. Here is one.",
         location:"https://n6jsk2.csb.app",
 

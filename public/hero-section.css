@@ -1,5 +1,5 @@
-*{
-    box-sizing: border-box;
+* {
+  box-sizing: border-box;
 
 }
 
@@ -11,8 +11,11 @@
 }
 } */
 
-.nav{
-width: 100%;}
+.nav {
+  width: 100%;
+
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -22,7 +25,8 @@ ul {
 }
 
 li {
-align-items: center;}
+  align-items: center;
+}
 
 li a {
   display: block;
@@ -30,61 +34,78 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  border: 1px solid #ebeff5;
 }
 
-li a:hover{
+li a:hover {
   background-color: #ebeff5;
   color: #7894bf;
+  border: 1px solid #7894bf;
+
 }
 
 
-  
-.profile-pic1{
+
+.profile-pic1 {
   width: 120px;
-  border-radius:60px;
+  border-radius: 60px;
 }
 
-  .projects-image{
-    width: 240px;
-    border-radius: 10px;
- 
-  }
+.projects-image {
+  width: 220px;
+  border-radius: 10px;
 
-  .project-description{
-    width: 200px;
-    font-size: 12px;
-    line-height: 20px;
+
 }
-.project-title{
-  font-weight: bold;
+
+.project-description {
+  width: 200px;
+  font-size: 13px;
+  line-height: 14px;
+  padding: 10px;
 }
+
+.project-title {
+  /* font-weight: bold; */
+  padding: 10px;
+}
+
 .dictionary {
   display: flex;
-  flex-wrap: wrap; 
-  justify-content:space-between;
-  width: auto;
+  flex-wrap: wrap;
+  justify-content: space-between;
   padding: 20px;
+  background-image:
+    linear-gradient(to bottom, white, #7894bf, white);
+    top: 600px;
 }
 
 
 
-.card{
-  align-self: center;
+
+.card {
+  /* align-self: center; */
   margin: auto;
   text-decoration: none;
   font-weight: bold;
   transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  /* border: 2px solid; */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 18px;
+  border-radius: 20px;
+  height: 320px;
+
 
 }
 
-.card:hover{
+.card:hover {
   transform: scale(1.05);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  background-color: #7894bf;
-  border: 2px solid #7894bf;
+  /* background-color: #7894bf; */
+  /* border: 2px solid #7894bf; */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   /* transform: rotate(3deg) scale(1.03); */
-  color: white;
+  /* color: white; */
 
 
 
@@ -98,27 +119,22 @@ li a:hover{
 
 
 
-/* @media screen and (max-width: 990px) {
-  .hero-section {
-    flex-direction: column;
-}
-} */
 
 
 
-.name-weather{
+.name-weather {
   display: flex;
   justify-content: space-between;
 }
 
 
-.name-weather-one{
+.name-weather-one {
   display: flex;
   flex-direction: column;
   width: 50%;
 }
 
-.weather-image{
+.weather-image {
   width: 100px;
   height: 50px;
 

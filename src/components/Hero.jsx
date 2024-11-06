@@ -3,9 +3,12 @@ import React from "react";
 function Hero() {
     return (
 
-        <div>
+        <div className="hero-div">
 
             <div className="background" >
+                <video className="video" src="/project-pictures/istockphoto-908286212-640_adpp_is.mp4" autoPlay loop muted />
+
+                
             </div>
             <div className="Hero-section">
 

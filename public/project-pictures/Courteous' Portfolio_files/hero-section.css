@@ -54,15 +54,7 @@ ul {
 .project-title{
   font-weight: bold;
 }
-.dictionary {
-  display: flex;
-  flex-wrap: wrap; 
-  justify-content:space-between;
-  width: auto;
-  padding: 20px;
 
-
-}
 
 .card{
   align-self: center;
