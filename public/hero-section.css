@@ -122,17 +122,17 @@ li a:hover {
 
 
 
-.name-weather {
+/* .name-weather {
   display: flex;
   justify-content: space-between;
-}
+} */
 
 
-.name-weather-one {
+/* .name-weather-one {
   display: flex;
   flex-direction: column;
   width: 50%;
-}
+} */
 
 .weather-image {
   width: 100px;

@@ -12,6 +12,8 @@
     top: 185px;
     /* z-index: 1; */
     height: 200px;
+    left: 10%;
+    right:10%
 }
 
 /* @media screen and (max-width: 990px) {
@@ -51,20 +53,24 @@
     margin-left: 30px;
     margin-right: 30px;
     /* filter: brightness(300); */
-    font-size: 1.2rem;
+    font-size: 15px;
+    text-align: center;
 
 
 
 
 
-    color: red;
+    color: white;
 }
 
 .hero-text2 {
     /* margin: 30px; */
     font-weight: bolder;
-    color: red;
-    font-size: 1.2rem;
+    color: white;
+    font-size: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
 
 
 
@@ -74,7 +80,8 @@
 
     .hero-text2,
     .hero-text {
-        color: black;
+        color: white;
+        /* width: 50%; */
     }
 }
 
@@ -88,6 +95,9 @@
     border: none;
     border-radius: 10px;
     height: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
 
 }
 

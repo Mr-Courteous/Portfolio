@@ -1,11 +1,18 @@
 const Projects= [
     {
         id:1,
-        imgSrc: "/project-pictures/Portfoilio.png",
-        title: "Personal Port-foilio",
-        description:" A collection of website that I have built perosnally and singlehandedly with react.",
-        location:"/",
+        imgSrc: "/project-pictures/Exradallenum.png",
+        title: "Exradallenum",
+        description:" A website for Exradallenumgroup of schools.",
+        location:"https://private-school-portal.vercel.app/",
     },
+    // {
+    //     id:1,
+    //     imgSrc: "/project-pictures/Portfoilio.png",
+    //     title: "Personal Port-foilio",
+    //     description:" A collection of website that I have built perosnally and singlehandedly with react.",
+    //     location:"/",
+    // },
 
     {
         id:2,

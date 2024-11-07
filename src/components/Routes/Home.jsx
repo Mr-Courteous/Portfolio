@@ -34,7 +34,7 @@ const Home = () => {
 
           <Hero />
 
-          <Hero2 />
+          {/* <Hero2 /> */}
 
           {/* <div className="weather-container">
 

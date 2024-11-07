@@ -14,7 +14,9 @@ function Hero() {
 
                 <h1 className="hero-text">
                     Building for you a digital workspace
-                </h1>
+                </h1>    
+
+      
 
                 <p className="hero-text2">
                     Elevate Your Online Presence with Expert Web Development
